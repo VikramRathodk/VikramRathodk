@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [cognicode](https://github.com/VikramRathodk/cognicode.git)
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Java,flutter , Android Development**
 
 - 📫 How to reach me **rathodvikramk382@gmail.com**
