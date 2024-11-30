@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikram Rathod</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [cognicode](https://github.com/VikramRathodk/cognicode.git)
+- 🔭 I’m currently working at comzent Technologies 
 
-- 💬 Ask me about **Java,flutter , Android Development**
+- 💬 Ask me about **Android & Web Development**
 
 - 📫 How to reach me **rathodvikramk382@gmail.com**
 
