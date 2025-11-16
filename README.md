@@ -3,7 +3,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Android+%26+Flutter+Developer;1.7%2B+Years+of+Experience;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Android+%26+Flutter+Developer;1.10%2B+Years+of+Experience;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 ##  About Me
 
-> **Mobile Application Developer** with **1.7+ years** of hands-on experience crafting high-quality enterprise Android applications using cutting-edge technologies like Kotlin, Jetpack Compose, and industry-standard architecture patterns.
+> **Mobile Application Developer** with **1.10+ years** of hands-on experience crafting high-quality enterprise Android applications using cutting-edge technologies like Kotlin, Jetpack Compose, and industry-standard architecture patterns.
 
 <div align="left">
   
@@ -78,7 +78,7 @@
 ** January 2024 – Present** | ** Mumbai, India**
 
 **Key Responsibilities & Achievements:**
--  **Developed 2+ enterprise-grade Android applications** using Kotlin and Jetpack Compose
+-  **Worked With 2+ enterprise-grade Android applications** using Kotlin and Jetpack Compose
 -  **Seamlessly integrated 20+ REST APIs** with proper error handling and caching mechanisms  
 -  **Implemented modern architecture patterns** including MVVM and Clean Architecture for maintainable code
 -  **Optimized app performance through efficient memory management and background processing
