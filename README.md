@@ -12,17 +12,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
-##  About Me
+## 📖 About Me
 
 > **Mobile Application Developer** with **1.10+ years** of hands-on experience crafting high-quality enterprise Android applications using cutting-edge technologies like Kotlin, Jetpack Compose, and industry-standard architecture patterns.
 
 <div align="left">
   
- **Currently working at:** Comzent Technologies Pvt. Ltd  
- **Specializing in:** Android & Flutter Development  
- **Passionate about:** Modern architecture patterns, clean code, and user experience  
- **Get in touch:** rathodvikramk382@gmail.com  
- **Based in:** Mumbai, Maharashtra, India  
+🏢 **Currently working at:** Comzent Technologies Pvt. Ltd  
+💻 **Specializing in:** Android & Flutter Development  
+🚀 **Passionate about:** Modern architecture patterns, clean code, and user experience  
+📧 **Get in touch:** rathodvikramk382@gmail.com  
+📍 **Based in:** Mumbai, Maharashtra, India  
 
 </div>
 
@@ -70,20 +70,20 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
-##  Professional Experience
+## 💼 Professional Experience
 
 <div align="left">
 
 ### **Mobile Application Developer** | **Comzent Technologies Pvt. Ltd**
-** January 2024 – Present** | ** Mumbai, India**
+**📅 January 2024 – Present** | **📍 Mumbai, India**
 
 **Key Responsibilities & Achievements:**
--  **Worked With 2+ enterprise-grade Android applications** using Kotlin and Jetpack Compose
--  **Seamlessly integrated 20+ REST APIs** with proper error handling and caching mechanisms  
--  **Implemented modern architecture patterns** including MVVM and Clean Architecture for maintainable code
--  **Optimized app performance through efficient memory management and background processing
--  **Consistently delivered projects ahead of deadlines** while maintaining high code quality standards
--  **Collaborated with cross-functional teams** including UI/UX designers and backend developers
+- 🚀 **Worked With 2+ enterprise-grade Android applications** using Kotlin and Jetpack Compose
+- 🔗 **Seamlessly integrated 20+ REST APIs** with proper error handling and caching mechanisms  
+- 🏗️ **Implemented modern architecture patterns** including MVVM and Clean Architecture for maintainable code
+- ⚡ **Optimized app performance** through efficient memory management and background processing
+- ⏰ **Consistently delivered projects ahead of deadlines** while maintaining high code quality standards
+- 🤝 **Collaborated with cross-functional teams** including UI/UX designers and backend developers
 
 </div>
 
@@ -91,49 +91,68 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="left">
 
-###  **ProChat - Professional Communication Platform**
+### 💬 **ProChat - Professional Communication Platform**
 **Tech Stack:** `Kotlin` `Jetpack Compose` `Firebase` `WebSocket` `Hilt`
 
-** Project Overview:**
--  **Real-time messaging platform** designed for professional team communication
--  **Advanced group management** with role-based permissions and admin controls
--  **Modern Material Design 3 UI** built entirely with Jetpack Compose
--  **Real-time message status tracking** with read receipts and delivery confirmations
+**📱 Project Overview:**
+- 💬 **Real-time messaging platform** designed for professional team communication
+- 👥 **Advanced group management** with role-based permissions and admin controls
+- 🎨 **Modern Material Design 3 UI** built entirely with Jetpack Compose
+- ✅ **Real-time message status tracking** with read receipts and delivery confirmations
 
-** Key Features:**
+**✨ Key Features:**
 - Push notifications with Firebase Cloud Messaging
 - Offline message caching with automatic sync
 - File sharing with cloud storage integration
 
 ---
 
-###  **Steveo - Smart Task Management**
-** Tech Stack:** `Kotlin` `Jetpack Compose` `Room` `WorkManager` `Notifications`
+### 📋 **Steveo - Smart Task Management**
+**Tech Stack:** `Kotlin` `Jetpack Compose` `Room` `WorkManager` `Notifications`
 
-** Project Overview:**
--  **Comprehensive task management solution** with advanced progress tracking
--  **Seamless calendar integration** for deadline management and scheduling
--  **Adaptive theming** with both dark and light modes plus dynamic colors
--  **Robust offline-first architecture** using Room database for local persistence
--  **Analytics dashboard** showing productivity insights and task completion trends
+**📱 Project Overview:**
+- ✅ **Comprehensive task management solution** with advanced progress tracking
+- 📅 **Seamless calendar integration** for deadline management and scheduling
+- 🎨 **Adaptive theming** with both dark and light modes plus dynamic colors
+- 💾 **Robust offline-first architecture** using Room database for local persistence
+- 📊 **Analytics dashboard** showing productivity insights and task completion trends
 
 ---
 
-###  **Food Delivery Application**
-** Tech Stack:** `Flutter` `Dart` `Firebase` `Google Maps API` `Stripe`
+### 🍔 **Food Delivery Application**
+**Tech Stack:** `Flutter` `Dart` `Firebase` `Google Maps API` `Stripe`
 
-** Project Overview:**
--  **Cross-platform food delivery solution** serving both Android and iOS users
--  **Complete CRUD operations** with Firebase Firestore for real-time data sync
--  **Secure payment processing** using RazorPay payment gateway
--  **Responsive design** ensuring optimal experience across all device sizes
+**📱 Project Overview:**
+- 🌐 **Cross-platform food delivery solution** serving both Android and iOS users
+- 🔄 **Complete CRUD operations** with Firebase Firestore for real-time data sync
+- 💳 **Secure payment processing** using RazorPay payment gateway
+- 📱 **Responsive design** ensuring optimal experience across all device sizes
 
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+## 🎓 Education
+
+<div align="left">
+
+### **Master of Computer Applications (MCA)**
+**Bhartiya Vidya Bhavans Sardar Patel Institute of Technology Munshi Nagar Andheri Mumbai** | **2020 – 2024** | **Mumbai, India**
+
+- 🎯 **CGPA:** 8.0/10
+- 📚 **Relevant Coursework:** Mobile Application Development, Data Structures, Object-Oriented Programming, Database Management Systems, Software Engineering
+- 🏆 **Key Highlights:**
+  - Developed multiple academic projects focusing on Android development
+  - Strong foundation in algorithms, design patterns, and software architecture
+
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -145,11 +164,11 @@
   
 > 💡 **"Great mobile apps are not just built with code, they're crafted with passion and precision!"**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-rathod-ab012122b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-rathod-438442289/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathodvikramk382@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramrathod)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramRathodk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramrathod.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919921120829)
 
 **📞 Open for:** Freelance Projects | Full-time Opportunities | Collaboration | Mentorship
 
