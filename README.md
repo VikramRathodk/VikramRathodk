@@ -18,11 +18,12 @@
 
 <div align="left">
   
-🏢 **Currently working at:** Comzent Technologies Pvt. Ltd  
-💻 **Specializing in:** Android & Flutter Development  
-🚀 **Passionate about:** Modern architecture patterns, clean code, and user experience  
-📧 **Get in touch:** rathodvikramk382@gmail.com  
-📍 **Based in:** Mumbai, Maharashtra, India  
+**Currently working at:** Comzent Technologies Pvt. Ltd  
+**Specializing in:** Android & Flutter Development  
+**Passionate about:** Modern architecture patterns, clean code, and user experience  
+**Get in touch:** rathodvikramk382@gmail.com  
+**Based in:** Mumbai, Maharashtra, India  
+**[View My Resume](https://www.canva.com/design/DAG409WH0Gs/i0xLy23FwPL-pfRj_aYVIQ/view?utm_content=DAG409WH0Gs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hffd372716d)**
 
 </div>
 
@@ -169,6 +170,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramRathodk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramrathod.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919921120829)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://www.canva.com/design/DAG409WH0Gs/i0xLy23FwPL-pfRj_aYVIQ/view?utm_content=DAG409WH0Gs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hffd372716d)
 
 **📞 Open for:** Freelance Projects | Full-time Opportunities | Collaboration | Mentorship
 
