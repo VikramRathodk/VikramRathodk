@@ -14,7 +14,7 @@
 
 ## 📖 About Me
 
-> **Mobile Application Developer** with **1.10+ years** of hands-on experience crafting high-quality enterprise Android applications using cutting-edge technologies like Kotlin, Jetpack Compose, and industry-standard architecture patterns.
+> **Mobile Application Developer** with **2+ years** of hands-on experience crafting high-quality enterprise Android and Flutter applications using cutting-edge technologies like Kotlin, Jetpack Compose, and industry-standard architecture patterns.
 
 <div align="left">
   
@@ -47,6 +47,9 @@
 ![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Kotlin%20Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### **Architecture & Patterns**
 ![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge&logo=android&logoColor=white)
@@ -71,6 +74,20 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
+## 🌱 Currently Learning
+
+<div align="left">
+
+- 📱 **Flutter & Dart** — Deepening cross-platform development skills with advanced state management (Bloc/Riverpod)
+- 🎨 **Advanced Jetpack Compose** — Custom animations, gestures, and performance optimizations
+- 🔷 **Kotlin Multiplatform (KMP)** — Exploring shared business logic across Android and iOS
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
 ## 💼 Professional Experience
 
 <div align="left">
@@ -79,11 +96,12 @@
 **📅 January 2024 – Present** | **📍 Mumbai, India**
 
 **Key Responsibilities & Achievements:**
-- 🚀 **Worked With 2+ enterprise-grade Android applications** using Kotlin and Jetpack Compose
-- 🔗 **Seamlessly integrated 20+ REST APIs** with proper error handling and caching mechanisms  
-- 🏗️ **Implemented modern architecture patterns** including MVVM and Clean Architecture for maintainable code
-- ⚡ **Optimized app performance** through efficient memory management and background processing
-- ⏰ **Consistently delivered projects ahead of deadlines** while maintaining high code quality standards
+- 🚀 **Built and maintained 3+ production Android applications** live on the Google Play Store using Kotlin and Jetpack Compose
+- 🔗 **Integrated REST APIs** with proper error handling, caching, and Kotlin Coroutines for async operations
+- ⚡ **Leveraged Kotlin Flow and WorkManager** for reactive state management and reliable background task scheduling
+- 🏗️ **Implemented MVVM + Clean Architecture** for scalable, testable, and maintainable codebases
+- 🔒 **Built secure session management** with single-session enforcement, OTP verification, and Firebase Firestore integration
+- 📦 **Managed app releases on Google Play Console** including version management, release tracks, and regular production updates
 - 🤝 **Collaborated with cross-functional teams** including UI/UX designers and backend developers
 
 </div>
@@ -96,45 +114,62 @@
 
 <div align="left">
 
+### 📋 **Task Manager**
+**Tech Stack:** `Flutter` `Dart` `Firebase` `BLoC` `Clean Architecture` `GetIt` `Dio`
+
+[![Play Store](https://img.shields.io/badge/Google_Play-Live-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bcstep.tm&hl=en_IN)
+
+**📱 Project Overview:**
+- ✅ **Cross-platform task management app** built with Flutter for Android & iOS from a single codebase
+- 🏗️ **Clean Architecture + BLoC pattern** for scalable, testable state management
+- 🔒 **Secure session management** with flutter_secure_storage and OTP verification flow
+- 🔔 **Firebase push notifications** with FCM for real-time task alerts
+- 🎨 **Dynamic theming** with light/dark mode via ThemeCubit
+- 💉 **Dependency injection** using GetIt service locator for clean, decoupled code
+
+---
+
+### 🏢 **BcStep HR Management**
+**Tech Stack:** `Java` `Android` `Room Database` `Firebase FCM` `WorkManager` `Volley`
+
+[![Play Store](https://img.shields.io/badge/Google_Play-Live-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bcstep.hr&hl=en_IN)
+
+**📱 Project Overview:**
+- 📊 **Real-time HR analytics dashboard** with live metrics and workforce insights
+- 🕐 **Time & location tracking** with automatic GPS-based employee check-in/check-out logging
+- 💰 **Salary, claims, and overtime modules** for comprehensive HR operations
+- 📱 **FCM push notification system** with device token management and session expiry alerts
+- 🗄️ **Robust Room database** with schema migrations for attendance, features, and HR summaries
+
+---
+
 ### 💬 **ProChat - Professional Communication Platform**
-**Tech Stack:** `Kotlin` `Jetpack Compose` `Firebase` `WebSocket` `Hilt`
+**Tech Stack:** `Kotlin` `Jetpack Compose` `Firebase` `Retrofit` `Coroutines/Flow` `Hilt`
+
+[![Play Store](https://img.shields.io/badge/Google_Play-Live-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bcstep.prochat&hl=en_IN)
 
 **📱 Project Overview:**
 - 💬 **Real-time messaging platform** designed for professional team communication
 - 👥 **Advanced group management** with role-based permissions and admin controls
 - 🎨 **Modern Material Design 3 UI** built entirely with Jetpack Compose
 - ✅ **Real-time message status tracking** with read receipts and delivery confirmations
-
-**✨ Key Features:**
-- Push notifications with Firebase Cloud Messaging
-- Offline message caching with automatic sync
-- File sharing with cloud storage integration
+- 📲 Push notifications with Firebase Cloud Messaging and offline message caching
 
 ---
 
-### 📋 **Steveo - Smart Task Management**
-**Tech Stack:** `Kotlin` `Jetpack Compose` `Room` `WorkManager` `Notifications`
+### 📋 **Steveo - Smart Task Management** *(Personal Project)*
+**Tech Stack:** `Kotlin` `Jetpack Compose` `Room` `WorkManager` `Coroutines`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramRathodk/Strivoro.git)
 
 **📱 Project Overview:**
-- ✅ **Comprehensive task management solution** with advanced progress tracking
-- 📅 **Seamless calendar integration** for deadline management and scheduling
-- 🎨 **Adaptive theming** with both dark and light modes plus dynamic colors
-- 💾 **Robust offline-first architecture** using Room database for local persistence
+- ✅ **Self-initiated task management app** built to explore and experiment with modern Android architecture
+- 📅 **Calendar integration** for deadline management and scheduling
+- 🎨 **Adaptive theming** with dark, light, and dynamic color modes
+- 💾 **Offline-first architecture** using Room database with WorkManager for background sync
 - 📊 **Analytics dashboard** showing productivity insights and task completion trends
 
----
-
-### 🍔 **Food Delivery Application**
-**Tech Stack:** `Flutter` `Dart` `Firebase` `Google Maps API` `Stripe`
-
-**📱 Project Overview:**
-- 🌐 **Cross-platform food delivery solution** serving both Android and iOS users
-- 🔄 **Complete CRUD operations** with Firebase Firestore for real-time data sync
-- 💳 **Secure payment processing** using RazorPay payment gateway
-- 📱 **Responsive design** ensuring optimal experience across all device sizes
-
 </div>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
